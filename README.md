@@ -12,3 +12,4 @@ tomcat 8.5
 密码:123
 
 
+使用提供的sql语句建表（建一个examination_system数据库）
