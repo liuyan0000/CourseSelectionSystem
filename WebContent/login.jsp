@@ -11,7 +11,7 @@
 	<script src="/js/bootstrap.min.js"></script>
 	<style type="text/css">
 	body{
-	   background: url(images/a.jpg)repeat;
+	   background: url(images/64AD7FEB-D575-477F-816E-4E66ADB3B2CE_1_105_c.jpeg)repeat;
 	}
 	#login-box {
 		/*border:1px solid #F00;*/
